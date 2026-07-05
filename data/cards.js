@@ -1,1 +1,1 @@
-
+window.TPA_CARDS = [];
